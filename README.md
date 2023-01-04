@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ciro!</h1>
-<h3 align="center">A Science Student</h3>
+# Hi 👋, I'm Ciro!
+### A Computer Science Enthusiast
 
-- 🌱 I’m currently learning **Computer Security**
+- 📚 I’m currently learning **Computer Security**
+- 🎓 I've a Bachelor Degree in **Computer Science** with honors
+- 👨🏻‍💻 I've worked as a fronted software developer with ReactJS and React-Native and as iOS developer with Swift
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
