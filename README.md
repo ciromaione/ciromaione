@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ciro!
 ### A Computer Science Enthusiast
 
-- 📚 I’m currently learning **Computer Security**
+- 📚 I’m currently learning **Computer Security** at <a href="https://www.unisa.it/">unisa</a>
 - 🎓 I've a Bachelor Degree in **Computer Science** with honors
 - 👨🏻‍💻 I've worked as a fronted software developer with ReactJS and React-Native and as iOS developer with Swift
 
